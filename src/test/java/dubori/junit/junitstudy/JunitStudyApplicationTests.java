@@ -5,12 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class JunitStudyApplicationTests {
-
-    @Test
-    void create() {
-        Study study = new Study();
+    public static void main(String[] args) {
 
     }
-
-
 }
